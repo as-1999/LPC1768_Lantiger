@@ -1,0 +1,9 @@
+.\Obj\adcuser.o: adcuser.c
+.\Obj\adcuser.o: .\common\inc\type.h
+.\Obj\adcuser.o: e:\Keilinstall\ARM\RV31\INC\stdint.h
+.\Obj\adcuser.o: usb.h
+.\Obj\adcuser.o: audio.h
+.\Obj\adcuser.o: usbcfg.h
+.\Obj\adcuser.o: usbcore.h
+.\Obj\adcuser.o: adcuser.h
+.\Obj\adcuser.o: usbaudio.h
